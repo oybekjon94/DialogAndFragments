@@ -16,3 +16,5 @@ rootProject.name = "DialogAndFragments"
 include ':app'
 include ':alertdialog'
 include ':alertdialoglistitem'
+include ':alertdialogcustomlayout'
+include ':datepickerdialog'
